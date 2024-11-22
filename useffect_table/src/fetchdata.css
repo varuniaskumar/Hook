@@ -1,0 +1,5 @@
+th,td,table{
+    border:2px solid orange;
+    text-align: center;
+    align-items: center;
+}
